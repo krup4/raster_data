@@ -1,0 +1,12 @@
+services:
+  geoserver:
+    image: docker.osgeo.org/geoserver:3.1.x
+    container_name: geoserver
+    restart: unless-stopped
+
+    ports:
+      - "8080:8080"
+
+    volumes:
+      - ./geoserver_data:/opt/geoserver_data
+      - ./data:/data

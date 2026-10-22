@@ -1,0 +1,16 @@
+<layer>
+  <name>sentinel</name>
+  <id>LayerInfoImpl-3e8ab21f:1a15f47960e:-7ffc</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-3e8ab21f:1a15f47960e:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-10-21 16:30:04.240 UTC</dateCreated>
+</layer>

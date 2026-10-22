@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-3e8ab21f:1a15f47960e:-7ffe</id>
+  <name>sentinel_scene</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-3e8ab21f:1a15f47960e:-8000</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2026-10-21 16:26:03.423 UTC</dateCreated>
+  <disableOnConnFailure>false</disableOnConnFailure>
+  <url>file:///data/sentinel.tif</url>
+</coverageStore>
